@@ -11,3 +11,5 @@
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
+Responsive Equalizer landing page solution
